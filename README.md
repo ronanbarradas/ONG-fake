@@ -16,9 +16,14 @@ https://lookerstudio.google.com/reporting/8de320b5-242a-46e2-87b5-8bba6bcd6230/p
 
 ## Estrutura do projeto
 
-- README.md: Este arquivo que você está lendo agora.
-- /faker.ypnb/: Notebook que gerou os números
-- /cadastro.csv/: Arquivo CSV gerado com os números do Notebook desse repositório
+- **README.md**: Este arquivo que você está lendo agora.
+- **faker.ypnb**: Notebook que gerou os números.
+- **cadastro.csv**: Arquivo CSV gerado com os números do Notebook desse repositório.
+- **ONG Fake - Insights.pdf**: Arquivo PDF com alguns insights que foram possíveis de ser extraídos.
+- **ONG Fake - Manual.md**: Arquivo com orientações sobre o uso do dashboard.
+- **image.png**: Imagem usada no manual.
+- **image 1.png**: Imagem usada no manual.
+- **image 2.png**: Imagem usada no manual.
 
 ## Dados utilizados
 
